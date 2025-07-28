@@ -59,7 +59,7 @@ const About: React.FC = () => {
               <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
                 <div className="w-64 h-64 mx-auto bg-gradient-to-br from-blue-100 to-green-100 rounded-full flex items-center justify-center mb-6">
                   <img
-                    src="/WhatsApp Image 2025-06-12 at 13.59.47_f81ca7f9.jpg"
+                    src="/Hospital-websitev/WhatsApp Image 2025-06-12 at 13.59.47_f81ca7f9.jpg"
                     alt="Dr. Deepthi"
                     className="w-56 h-56 rounded-full object-cover shadow-lg"
                   />
